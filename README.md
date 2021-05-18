@@ -1,18 +1,19 @@
 <h1 align="center">
- Trilha nodejs - Back-end
+ NPS-NLW04-API
 </h1>
 
-<h3 align="center">
-    <img width="400px" src="./nodejs.jpg">
-    <br><br>
-
-</h3>
+<p align="center">
+  <img alt="API" src="./preview.png" width="100%">
+</p>
 
 ## 📝 Sobre o Projeto
+O <strong>NPS-NLW-API</strong> é uma API Restful para Net Promoter Score de empresa. Nele fazemos o cadastro de usuários, cadastro de pesquisas, envio de e-mail para os usuários responderem as pesquisas de satisfação e com isso podemos realizar o cálculo do NPS.
 
-O <strong>NPS-API</strong> é uma API Restful para Net Promoter Score.
+Esse projeto foi desenvolvido durante a trilha de <strong>NodeJS Back-end</strong>, na quarta edição da <strong>Next Level Week</strong> distribuída pela [Rocketseat](https://rocketseat.com.br/). Aprendemos conceitos sobre o que é um API, como iniciar um projeto utilizando Typescript e Express para gerenciamento das rotas, TypeORM para manipulação dos dados, testes automatizados e envio de e-mail.
 
-Aplicação back-end construída na trilha <strong>NodeJS</strong> da <strong>Next Level Week</strong> distribuída pela [Rocketseat](https://rocketseat.com.br/).
+## 🔶 Diagrama
+
+<img src="./diagrama.png" alt="Diagrama da aplicação" />
 
 ## 🚀 Tecnologias
 
@@ -71,6 +72,10 @@ Para testar se a aplicação passa em todos os testes de integração, utilize o
 ```bash
 - yarn test
 ```
+A aplicação pode ser acessada em:
+```
+http://localhost:3333
+```
 
 ## 🔗 Links do projeto
 
@@ -86,8 +91,3 @@ Para testar se a aplicação passa em todos os testes de integração, utilize o
 ---
    >Este projeto foi desenvolvido com ❤️ por **[@Wandson Gomes](https://www.linkedin.com/in/wandsony/)**, com a instrutora **[@Daniele Leão](https://www.linkedin.com/in/daniele-le%C3%A3o-evangelista-5540ab25)**, durante a **[Next Level Week](https://rocketseat.com.br/)** na **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜. <br> 
 ---
-   <div align="center">
-
-   [![Linkedin Badge](https://img.shields.io/badge/-Wandson%20Gomes-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wandsony/)](https://www.linkedin.com/in/wandsony/)
-
-   </div>
